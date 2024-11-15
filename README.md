@@ -22,6 +22,12 @@ I am using the Bike Sharing Dataset for this analysis.
     python -m venv venv
     ```
 
+    or you can use
+
+    ```sh
+    virtualenv venv
+    ```
+
 3. Activate the virtual environment and install the dependencies:
 
     ```sh
