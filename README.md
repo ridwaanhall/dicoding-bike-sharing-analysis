@@ -6,7 +6,7 @@ This project explores the relationship between weather conditions and the total 
 
 ## Dataset Description
 
-I am using the Bike Sharing Dataset for this analysis.
+I am using the [Bike Sharing Dataset](https://github.com/ridwaanhall/dicoding-bike-sharing-analysis/tree/main/data) for this analysis.
 
 ## Installation Instructions
 
