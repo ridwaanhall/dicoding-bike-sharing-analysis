@@ -38,8 +38,8 @@ I am using the Bike Sharing Dataset for this analysis.
 
 ## Usage Instructions
 
-To use this project, refer to the documentation in `notebook.ipynb`.
-To run the Streamlit dashboard, execute the following command:
+- To use this project, refer to the documentation in `notebook.ipynb`.
+- To run the Streamlit dashboard, execute the following command:
 
 ```sh
 streamlit run dashboard/dashboard.py
