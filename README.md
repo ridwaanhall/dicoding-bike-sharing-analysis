@@ -47,8 +47,10 @@ streamlit run dashboard/dashboard.py
 
 ## Features
 
-- Analyze the relationship between weather conditions and total bike rentals.
-- Compare bike rental trends between working days and weekends/holidays.
+- Analysis of bike rentals across different seasons to determine the most and least popular seasons.
+- Examination of the relationship between weather conditions and total bike rentals (`total`).
+- Comparison of bike rental trends between working days (`workingday`) and weekends/holidays (`holiday`).
+- RFM Analysis
 - Display analysis results using Streamlit.
 
 ## Contributing
