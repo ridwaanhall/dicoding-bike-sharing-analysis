@@ -2,6 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8/project/b0c149bc-9ee5-4f33-8d04-8de21aac863d.svg)](https://wakatime.com/badge/user/018b799e-de53-4f7a-bb65-edc2df9f26d8/project/b0c149bc-9ee5-4f33-8d04-8de21aac863d)
 
+[Streamlit App](https://ridwaanhall-bike-sharing-analytics.streamlit.app/)
+
 ## Project Description
 
 This project explores the relationship between weather conditions and the total bike rentals. It also examines how bike rental trends differ between working days and weekends/holidays.
